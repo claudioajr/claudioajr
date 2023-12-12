@@ -1,16 +1,21 @@
-### Hi there 👋
+# Bem-vindo ao meu Perfil do GitHub! 👋
 
-<!--
-**claudioajr/claudioajr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá, sou Claudio Alberto Jr., um apaixonado engenheiro de computação com uma sólida experiência em desenvolvimento de softwares e soluções inovadoras. Meu objetivo é unir a teoria à prática, transformando desafios complexos em código eficiente.
 
-Here are some ideas to get you started:
+## 💼 Experiência Profissional
+Atualmente, estou disponível para o mercado de trabalho, realizo aulas remotas de programação em Python, Java e MySql. Ao longo da minha carreira, participei de projetos desafiadores, adquirindo expertise em ministrar aulas de conteúdos em Aplicativos da Ferramenta Office, Excel Avançado e Auxiliar Administrativo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Habilidades Técnicas
+- Linguagens de Programação: Python, Java, C++
+- Banco de Dados: MySQL
+- Cloud: Azure
+
+## 📚 Educação
+Estou me graduando em Engenharia de Computação pela UNIVESP - Universidade Virtual do Estado de São Paulo. Durante meus estudos, concentrei-me em linguagens de programação, preparando-me para os desafios dinâmicos do campo da tecnologia.
+
+## 🤝 Vamos Colaborar!
+Estou sempre aberto a colaborações e novas oportunidades. Se você está interessado em trabalhar junto em projetos emocionantes ou contratar-me, fique à vontade para entrar em contato.
+
+Conecte-se comigo para continuarmos a conversa. Juntos, podemos construir algo incrível!
+
+Obrigado por visitar meu perfil. Vamos codificar o futuro juntos! 🚀
